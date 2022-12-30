@@ -13,6 +13,9 @@
 
 # Bolsa #
     Possuo um par de tampões de ouvido
+    1 - Cenoura
+    1 - Cantil de 1L
+    5 - Latas (não perecíveis)
 
 # Carroceria #
     Possui comida o suficiente para a viagem
@@ -20,6 +23,7 @@
     Frutas
     Grãos
     Munição
+    Água
 
 
 # Anotaçõoes #
@@ -35,10 +39,11 @@
     # DAGAN #
     Mudo
     alto
-    Porto Médio, nem grande nem pequeno => ~ 70kg
+    Porte Médio, nem grande nem pequeno => ~ 70kg
     Comunicação => usa a mana para se comunicar e também, se preciso, usa papel e caneta
     Não Humano
-    * O esquilo => possível ponto fraco (com os balões, ou seja, as falas dele) *
+    * O esquilo => possível ponto fraco (com os balões, ou seja, as falas dele) 
+    A comunicação também, é um ponto fraco, se ele for preso ou sequestrado não conseguimos saber*
 
     # DAIRA #
     Default
@@ -46,6 +51,7 @@
     alta
     Briguenta => Barra pesada (pirata - 1 perna)
     tem mapa
+    * Protese => Possível fraqueza, ou seja, mobilidade? *
 
     # JACK #
     Humano
